@@ -15,7 +15,7 @@ wind_farm_names = wind_farm_data['Name'].unique()
 
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-#server = app.server
+server = app.server
 
 # Function to create a new game challenge
 def create_challenge():
