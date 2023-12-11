@@ -9,13 +9,13 @@ import plotly.graph_objs as go
 import pandas as pd
 
 
-wind_farm_data = pd.read_csv('wind_farms.csv')
+wind_farm_data = pd.read_csv('./src/wind_farms.csv')
 wind_farm_names = wind_farm_data['Name'].unique()
 
 
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-server = app.server
+#server = app.server
 
 # Function to create a new game challenge
 def create_challenge():
@@ -121,4 +121,4 @@ def create_figure(wind_farm):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8080)  # Replace 8080 with your desired port number
