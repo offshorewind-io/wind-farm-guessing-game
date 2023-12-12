@@ -394,7 +394,7 @@ X,Y,Name
 606,743,Yunlin
 482,733,Yunlin
 531,728,Yunlin
-397,722,Yunlin
+402,724,Yunlin
 345,706,Yunlin
 699,686,Yunlin
 578,683,Yunlin
@@ -416,7 +416,7 @@ X,Y,Name
 737,519,Yunlin
 616,515,Yunlin
 525,493,Yunlin
-580,488,Yunlin
+585,492,Yunlin
 683,488,Yunlin
 418,488,Yunlin
 376,471,Yunlin
@@ -442,7 +442,7 @@ X,Y,Name
 634,243,Yunlin
 588,243,Yunlin
 544,241,Yunlin
-421,230,Yunlin
+426,232,Yunlin
 728,229,Yunlin
 505,224,Yunlin
 778,209,Yunlin
@@ -457,26 +457,44 @@ X,Y,Name
 625,69,Yunlin
 666,68,Yunlin
 746,67,Yunlin
+705,67,Yunlin
 585,66,Yunlin
+783,61,Yunlin
 254,485,Egmond aan Zee
 298,469,Egmond aan Zee
+237,464,Egmond aan Zee
+281,449,Egmond aan Zee
 220,443,Egmond aan Zee
 263,428,Egmond aan Zee
 313,423,Egmond aan Zee
+202,422,Egmond aan Zee
+245,406,Egmond aan Zee
+297,402,Egmond aan Zee
 184,401,Egmond aan Zee
 279,380,Egmond aan Zee
+166,379,Egmond aan Zee
 330,374,Egmond aan Zee
 217,373,Egmond aan Zee
 148,358,Egmond aan Zee
+312,352,Egmond aan Zee
+199,351,Egmond aan Zee
 252,347,Egmond aan Zee
+130,337,Egmond aan Zee
 181,330,Egmond aan Zee
+232,323,Egmond aan Zee
 285,320,Egmond aan Zee
 112,315,Egmond aan Zee
+163,309,Egmond aan Zee
 214,302,Egmond aan Zee
+265,296,Egmond aan Zee
+95,294,Egmond aan Zee
 145,288,Egmond aan Zee
+196,281,Egmond aan Zee
 247,274,Egmond aan Zee
 77,273,Egmond aan Zee
 178,260,Egmond aan Zee
+229,253,Egmond aan Zee
+59,252,Egmond aan Zee
 211,232,Egmond aan Zee
 699,744,Neart na Goaithe
 453,742,Neart na Goaithe
@@ -508,7 +526,7 @@ X,Y,Name
 458,460,Neart na Goaithe
 587,446,Neart na Goaithe
 642,436,Neart na Goaithe
-385,426,Neart na Goaithe
+390,430,Neart na Goaithe
 211,420,Neart na Goaithe
 565,407,Neart na Goaithe
 314,399,Neart na Goaithe
@@ -644,132 +662,6 @@ X,Y,Name
 429,139,Formosa I
 537,111,Formosa I
 499,72,Formosa I
-926,900,Saint-Brieuc
-485,753,Saint-Brieuc
-554,747,Saint-Brieuc
-622,738,Saint-Brieuc
-454,724,Saint-Brieuc
-524,716,Saint-Brieuc
-592,707,Saint-Brieuc
-357,699,Saint-Brieuc
-423,692,Saint-Brieuc
-493,686,Saint-Brieuc
-565,674,Saint-Brieuc
-462,657,Saint-Brieuc
-528,647,Saint-Brieuc
-432,626,Saint-Brieuc
-500,618,Saint-Brieuc
-470,588,Saint-Brieuc
-535,575,Saint-Brieuc
-302,573,Saint-Brieuc
-369,566,Saint-Brieuc
-438,557,Saint-Brieuc
-272,544,Saint-Brieuc
-340,536,Saint-Brieuc
-477,520,Saint-Brieuc
-243,511,Saint-Brieuc
-310,506,Saint-Brieuc
-376,497,Saint-Brieuc
-446,489,Saint-Brieuc
-279,476,Saint-Brieuc
-347,467,Saint-Brieuc
-417,457,Saint-Brieuc
-248,446,Saint-Brieuc
-316,438,Saint-Brieuc
-386,428,Saint-Brieuc
-451,420,Saint-Brieuc
-217,415,Saint-Brieuc
-285,407,Saint-Brieuc
-354,398,Saint-Brieuc
-423,389,Saint-Brieuc
-255,378,Saint-Brieuc
-322,370,Saint-Brieuc
-392,359,Saint-Brieuc
-458,352,Saint-Brieuc
-224,347,Saint-Brieuc
-292,339,Saint-Brieuc
-359,332,Saint-Brieuc
-430,321,Saint-Brieuc
-192,319,Saint-Brieuc
-261,309,Saint-Brieuc
-330,301,Saint-Brieuc
-398,292,Saint-Brieuc
-232,278,Saint-Brieuc
-299,270,Saint-Brieuc
-367,262,Saint-Brieuc
-267,239,Saint-Brieuc
-336,233,Saint-Brieuc
-305,201,Saint-Brieuc
-1049,806,Burbo Bank
-972,687,Burbo Bank
-1068,686,Burbo Bank
-778,689,Burbo Bank
-1157,688,Burbo Bank
-875,687,Burbo Bank
-684,687,Burbo Bank
-549,686,Burbo Bank
-1231,656,Burbo Bank
-479,622,Burbo Bank
-1088,608,Burbo Bank
-664,595,Burbo Bank
-1250,588,Burbo Bank
-874,588,Burbo Bank
-412,562,Burbo Bank
-1215,556,Burbo Bank
-1404,555,Burbo Bank
-1306,552,Burbo Bank
-1177,523,Burbo Bank
-1362,520,Burbo Bank
-1270,521,Burbo Bank
-1457,521,Burbo Bank
-756,507,Burbo Bank
-980,505,Burbo Bank
-344,499,Burbo Bank
-1142,491,Burbo Bank
-1234,488,Burbo Bank
-1326,485,Burbo Bank
-548,485,Burbo Bank
-1419,482,Burbo Bank
-1197,455,Burbo Bank
-1106,455,Burbo Bank
-1290,453,Burbo Bank
-277,434,Burbo Bank
-785,425,Burbo Bank
-1162,423,Burbo Bank
-1069,423,Burbo Bank
-1254,420,Burbo Bank
-948,411,Burbo Bank
-367,411,Burbo Bank
-638,406,Burbo Bank
-1501,397,Burbo Bank
-1033,388,Burbo Bank
-1218,384,Burbo Bank
-1125,384,Burbo Bank
-211,376,Burbo Bank
-1465,379,Burbo Bank
-1183,358,Burbo Bank
-1091,358,Burbo Bank
-1327,347,Burbo Bank
-1423,361,Burbo Bank
-1376,352,Burbo Bank
-362,326,Burbo Bank
-467,326,Burbo Bank
-765,325,Burbo Bank
-659,324,Burbo Bank
-856,325,Burbo Bank
-157,325,Burbo Bank
-968,324,Burbo Bank
-271,325,Burbo Bank
-1285,331,Burbo Bank
-550,322,Burbo Bank
-1145,320,Burbo Bank
-1053,320,Burbo Bank
-215,479,Burbo Bank
-306,162,Burbo Bank
-255,157,Burbo Bank
-327,112,Burbo Bank
-275,112,Burbo Bank
-231,107,Burbo Bank
 278,782,Fécamp
 321,771,Fécamp
 364,760,Fécamp
@@ -811,6 +703,7 @@ X,Y,Name
 461,532,Fécamp
 341,523,Fécamp
 502,521,Fécamp
+384,512,Fécamp
 545,510,Fécamp
 427,501,Fécamp
 308,492,Fécamp
@@ -935,73 +828,23 @@ X,Y,Name
 304,152,Fryslân
 476,136,Fryslân
 408,129,Fryslân
-351,795,Dieppe - Le Tréport
-320,763,Dieppe - Le Tréport
-389,758,Dieppe - Le Tréport
-283,732,Dieppe - Le Tréport
-358,724,Dieppe - Le Tréport
-427,722,Dieppe - Le Tréport
-326,691,Dieppe - Le Tréport
-396,689,Dieppe - Le Tréport
-540,685,Dieppe - Le Tréport
-365,655,Dieppe - Le Tréport
-435,651,Dieppe - Le Tréport
-505,648,Dieppe - Le Tréport
-575,644,Dieppe - Le Tréport
-402,618,Dieppe - Le Tréport
-472,615,Dieppe - Le Tréport
-544,612,Dieppe - Le Tréport
-614,610,Dieppe - Le Tréport
-371,584,Dieppe - Le Tréport
-441,583,Dieppe - Le Tréport
-581,575,Dieppe - Le Tréport
-651,573,Dieppe - Le Tréport
-340,552,Dieppe - Le Tréport
-410,549,Dieppe - Le Tréport
-621,539,Dieppe - Le Tréport
-309,520,Dieppe - Le Tréport
-524,515,Dieppe - Le Tréport
-452,516,Dieppe - Le Tréport
-378,515,Dieppe - Le Tréport
-347,483,Dieppe - Le Tréport
-417,479,Dieppe - Le Tréport
-487,475,Dieppe - Le Tréport
-557,472,Dieppe - Le Tréport
-768,464,Dieppe - Le Tréport
-385,446,Dieppe - Le Tréport
-451,445,Dieppe - Le Tréport
-525,441,Dieppe - Le Tréport
-596,437,Dieppe - Le Tréport
-737,429,Dieppe - Le Tréport
-807,426,Dieppe - Le Tréport
-424,408,Dieppe - Le Tréport
-495,406,Dieppe - Le Tréport
-565,402,Dieppe - Le Tréport
-636,399,Dieppe - Le Tréport
-775,391,Dieppe - Le Tréport
-462,373,Dieppe - Le Tréport
-533,370,Dieppe - Le Tréport
-603,367,Dieppe - Le Tréport
-673,361,Dieppe - Le Tréport
-745,360,Dieppe - Le Tréport
-501,336,Dieppe - Le Tréport
-571,333,Dieppe - Le Tréport
-642,332,Dieppe - Le Tréport
-713,327,Dieppe - Le Tréport
-540,302,Dieppe - Le Tréport
-610,296,Dieppe - Le Tréport
-682,294,Dieppe - Le Tréport
-580,263,Dieppe - Le Tréport
-650,259,Dieppe - Le Tréport
-618,226,Dieppe - Le Tréport
 555,571,Dogger Bank C
+523,570,Dogger Bank C
 491,568,Dogger Bank C
+457,568,Dogger Bank C
 426,567,Dogger Bank C
+393,566,Dogger Bank C
+587,565,Dogger Bank C
 361,566,Dogger Bank C
+327,565,Dogger Bank C
 295,565,Dogger Bank C
 229,563,Dogger Bank C
+259,557,Dogger Bank C
+193,556,Dogger Bank C
 160,555,Dogger Bank C
+127,554,Dogger Bank C
 94,554,Dogger Bank C
+61,554,Dogger Bank C
 53,522,Dogger Bank C
 585,519,Dogger Bank C
 501,517,Dogger Bank C
@@ -1010,6 +853,13 @@ X,Y,Name
 255,509,Dogger Bank C
 174,506,Dogger Bank C
 102,499,Dogger Bank C
+560,492,Dogger Bank C
+476,491,Dogger Bank C
+51,490,Dogger Bank C
+395,487,Dogger Bank C
+313,484,Dogger Bank C
+231,482,Dogger Bank C
+150,479,Dogger Bank C
 536,465,Dogger Bank C
 452,464,Dogger Bank C
 370,461,Dogger Bank C
@@ -1017,53 +867,79 @@ X,Y,Name
 50,458,Dogger Bank C
 207,455,Dogger Bank C
 125,453,Dogger Bank C
+513,439,Dogger Bank C
+428,437,Dogger Bank C
+346,434,Dogger Bank C
+265,431,Dogger Bank C
+183,428,Dogger Bank C
+101,425,Dogger Bank C
+49,425,Dogger Bank C
 488,412,Dogger Bank C
 404,410,Dogger Bank C
 322,407,Dogger Bank C
 159,402,Dogger Bank C
 48,394,Dogger Bank C
+464,385,Dogger Bank C
+380,383,Dogger Bank C
+298,381,Dogger Bank C
 217,379,Dogger Bank C
+135,375,Dogger Bank C
+47,362,Dogger Bank C
 440,358,Dogger Bank C
 356,356,Dogger Bank C
 274,354,Dogger Bank C
+192,352,Dogger Bank C
 110,348,Dogger Bank C
 45,330,Dogger Bank C
+332,329,Dogger Bank C
+250,327,Dogger Bank C
 168,324,Dogger Bank C
 307,303,Dogger Bank C
 226,300,Dogger Bank C
+144,298,Dogger Bank C
+44,297,Dogger Bank C
+283,276,Dogger Bank C
+201,273,Dogger Bank C
 120,271,Dogger Bank C
 43,266,Dogger Bank C
 260,249,Dogger Bank C
 178,247,Dogger Bank C
+96,244,Dogger Bank C
+42,233,Dogger Bank C
+235,223,Dogger Bank C
+154,220,Dogger Bank C
 40,201,Dogger Bank C
 212,171,Dogger Bank C
+180,171,Dogger Bank C
 114,171,Dogger Bank C
-336,575,Inch Cape
-692,866,Inch Cape
-730,844,Inch Cape
-70,612,Inch Cape
-295,577,Inch Cape
-217,577,Inch Cape
-71,567,Inch Cape
-71,515,Inch Cape
-72,471,Inch Cape
-74,418,Inch Cape
-91,374,Inch Cape
-108,329,Inch Cape
+147,170,Dogger Bank C
+81,170,Dogger Bank C
+48,170,Dogger Bank C
 688,684,Dogger Bank B
+655,682,Dogger Bank B
 621,682,Dogger Bank B
+593,678,Dogger Bank B
 560,676,Dogger Bank B
+526,676,Dogger Bank B
 491,675,Dogger Bank B
+461,672,Dogger Bank B
 429,670,Dogger Bank B
+394,670,Dogger Bank B
 363,668,Dogger Bank B
+330,666,Dogger Bank B
 297,665,Dogger Bank B
+713,663,Dogger Bank B
+264,663,Dogger Bank B
 233,661,Dogger Bank B
+201,659,Dogger Bank B
 167,658,Dogger Bank B
 712,631,Dogger Bank B
 623,629,Dogger Bank B
-158,616,Dogger Bank B
+168,624,Dogger Bank B
 226,602,Dogger Bank B
+712,598,Dogger Bank B
 299,594,Dogger Bank B
+171,592,Dogger Bank B
 372,587,Dogger Bank B
 445,579,Dogger Bank B
 518,571,Dogger Bank B
@@ -1071,7 +947,9 @@ X,Y,Name
 591,563,Dogger Bank B
 173,559,Dogger Bank B
 664,555,Dogger Bank B
+711,533,Dogger Bank B
 267,529,Dogger Bank B
+176,526,Dogger Bank B
 340,521,Dogger Bank B
 413,512,Dogger Bank B
 485,505,Dogger Bank B
@@ -1079,125 +957,89 @@ X,Y,Name
 558,498,Dogger Bank B
 179,495,Dogger Bank B
 632,490,Dogger Bank B
+710,468,Dogger Bank B
 234,463,Dogger Bank B
+182,462,Dogger Bank B
 307,455,Dogger Bank B
-172,454,Dogger Bank B
 380,447,Dogger Bank B
 453,439,Dogger Bank B
 709,435,Dogger Bank B
 526,431,Dogger Bank B
+185,430,Dogger Bank B
 599,423,Dogger Bank B
+709,403,Dogger Bank B
 186,396,Dogger Bank B
 275,389,Dogger Bank B
 348,381,Dogger Bank B
 708,370,Dogger Bank B
 494,365,Dogger Bank B
+189,364,Dogger Bank B
 567,357,Dogger Bank B
 640,349,Dogger Bank B
+707,337,Dogger Bank B
 192,332,Dogger Bank B
 315,315,Dogger Bank B
 388,307,Dogger Bank B
+196,300,Dogger Bank B
 462,299,Dogger Bank B
 607,283,Dogger Bank B
 706,271,Dogger Bank B
 199,267,Dogger Bank B
 283,249,Dogger Bank B
 356,241,Dogger Bank B
+706,239,Dogger Bank B
+202,234,Dogger Bank B
 429,233,Dogger Bank B
-192,226,Dogger Bank B
 502,225,Dogger Bank B
 575,218,Dogger Bank B
 648,210,Dogger Bank B
 705,206,Dogger Bank B
+205,202,Dogger Bank B
 208,169,Dogger Bank B
 397,167,Dogger Bank B
 470,159,Dogger Bank B
 543,151,Dogger Bank B
+232,147,Dogger Bank B
 616,143,Dogger Bank B
 264,143,Dogger Bank B
 704,140,Dogger Bank B
+296,136,Dogger Bank B
 327,126,Dogger Bank B
+358,116,Dogger Bank B
+704,108,Dogger Bank B
 451,84,Dogger Bank B
 647,81,Dogger Bank B
 703,75,Dogger Bank B
-548,440,Saint-Nazaire
-479,419,Saint-Nazaire
-586,410,Saint-Nazaire
-407,400,Saint-Nazaire
-506,388,Saint-Nazaire
-622,382,Saint-Nazaire
-335,382,Saint-Nazaire
-454,373,Saint-Nazaire
-573,369,Saint-Nazaire
-263,362,Saint-Nazaire
-409,360,Saint-Nazaire
-533,357,Saint-Nazaire
-659,352,Saint-Nazaire
-368,349,Saint-Nazaire
-484,344,Saint-Nazaire
-192,343,Saint-Nazaire
-610,339,Saint-Nazaire
-328,336,Saint-Nazaire
-562,326,Saint-Nazaire
-121,325,Saint-Nazaire
-289,324,Saint-Nazaire
-701,319,Saint-Nazaire
-513,313,Saint-Nazaire
-249,311,Saint-Nazaire
-465,300,Saint-Nazaire
-209,300,Saint-Nazaire
-587,294,Saint-Nazaire
-327,293,Saint-Nazaire
-168,291,Saint-Nazaire
-417,283,Saint-Nazaire
-541,282,Saint-Nazaire
-281,277,Saint-Nazaire
-677,280,Saint-Nazaire
-130,277,Saint-Nazaire
-496,270,Saint-Nazaire
-622,267,Saint-Nazaire
-235,261,Saint-Nazaire
-453,257,Saint-Nazaire
-574,256,Saint-Nazaire
-321,247,Saint-Nazaire
-189,246,Saint-Nazaire
-527,243,Saint-Nazaire
-416,240,Saint-Nazaire
-278,230,Saint-Nazaire
-145,229,Saint-Nazaire
-482,226,Saint-Nazaire
-236,214,Saint-Nazaire
-348,212,Saint-Nazaire
-529,202,Saint-Nazaire
-194,198,Saint-Nazaire
-156,185,Saint-Nazaire
-257,174,Saint-Nazaire
-188,146,Saint-Nazaire
-271,130,Saint-Nazaire
-150,131,Saint-Nazaire
-224,118,Saint-Nazaire
-184,106,Saint-Nazaire
-145,90,Saint-Nazaire
-233,60,Saint-Nazaire
 549,456,Dogger Bank A
+513,443,Dogger Bank A
+571,433,Dogger Bank A
 484,431,Dogger Bank A
+454,418,Dogger Bank A
 594,410,Dogger Bank A
 424,405,Dogger Bank A
+394,393,Dogger Bank A
 517,389,Dogger Bank A
+617,386,Dogger Bank A
 364,381,Dogger Bank A
+335,368,Dogger Bank A
 639,363,Dogger Bank A
 305,356,Dogger Bank A
 548,352,Dogger Bank A
 466,348,Dogger Bank A
+275,343,Dogger Bank A
 245,331,Dogger Bank A
+215,319,Dogger Bank A
 577,316,Dogger Bank A
 496,311,Dogger Bank A
 415,307,Dogger Bank A
 185,307,Dogger Bank A
 334,303,Dogger Bank A
+153,301,Dogger Bank A
 706,294,Dogger Bank A
 125,282,Dogger Bank A
+94,276,Dogger Bank A
 527,274,Dogger Bank A
+729,270,Dogger Bank A
 445,270,Dogger Bank A
 364,265,Dogger Bank A
 63,264,Dogger Bank A
@@ -1206,17 +1048,20 @@ X,Y,Name
 751,247,Dogger Bank A
 638,241,Dogger Bank A
 476,233,Dogger Bank A
+47,231,Dogger Bank A
 394,228,Dogger Bank A
-42,229,Dogger Bank A
 314,224,Dogger Bank A
+774,224,Dogger Bank A
 232,220,Dogger Bank A
 151,215,Dogger Bank A
 668,204,Dogger Bank A
 796,201,Dogger Bank A
+47,199,Dogger Bank A
 348,191,Dogger Bank A
 424,191,Dogger Bank A
 262,183,Dogger Bank A
 181,178,Dogger Bank A
+819,177,Dogger Bank A
 100,174,Dogger Bank A
 698,168,Dogger Bank A
 48,165,Dogger Bank A
@@ -1225,6 +1070,8 @@ X,Y,Name
 292,145,Dogger Bank A
 211,141,Dogger Bank A
 130,136,Dogger Bank A
+48,134,Dogger Bank A
+864,131,Dogger Bank A
 729,130,Dogger Bank A
 647,126,Dogger Bank A
 566,121,Dogger Bank A
@@ -1235,16 +1082,29 @@ X,Y,Name
 759,93,Dogger Bank A
 677,89,Dogger Bank A
 596,84,Dogger Bank A
+879,70,Dogger Bank A
 853,51,Dogger Bank A
 48,40,Dogger Bank A
+80,39,Dogger Bank A
 243,37,Dogger Bank A
 340,36,Dogger Bank A
+308,36,Dogger Bank A
+275,36,Dogger Bank A
 470,35,Dogger Bank A
+437,35,Dogger Bank A
 405,35,Dogger Bank A
+372,35,Dogger Bank A
 567,34,Dogger Bank A
+535,34,Dogger Bank A
+502,34,Dogger Bank A
 794,33,Dogger Bank A
+761,33,Dogger Bank A
 729,33,Dogger Bank A
+696,33,Dogger Bank A
 664,33,Dogger Bank A
+632,33,Dogger Bank A
+599,33,Dogger Bank A
+826,32,Dogger Bank A
 464,452,Hywind Scotland
 585,382,Hywind Scotland
 351,378,Hywind Scotland
@@ -1258,124 +1118,6 @@ X,Y,Name
 315,423,Block Island
 398,344,Block Island
 473,254,Block Island
-162,1037,Seagreen
-372,1022,Seagreen
-245,1015,Seagreen
-120,1011,Seagreen
-587,1007,Seagreen
-456,1002,Seagreen
-330,997,Seagreen
-665,988,Seagreen
-541,984,Seagreen
-1212,966,Seagreen
-1086,960,Seagreen
-498,957,Seagreen
-960,954,Seagreen
-834,948,Seagreen
-1296,946,Seagreen
-447,940,Seagreen
-1044,934,Seagreen
-1379,929,Seagreen
-917,928,Seagreen
-1254,921,Seagreen
-544,911,Seagreen
-1002,908,Seagreen
-413,906,Seagreen
-1338,901,Seagreen
-1212,894,Seagreen
-1086,889,Seagreen
-959,883,Seagreen
-586,866,Seagreen
-1042,865,Seagreen
-917,857,Seagreen
-1254,849,Seagreen
-1001,838,Seagreen
-875,832,Seagreen
-1338,830,Seagreen
-1213,824,Seagreen
-959,812,Seagreen
-1296,804,Seagreen
-1169,798,Seagreen
-916,787,Seagreen
-1253,779,Seagreen
-1086,749,Seagreen
-633,740,Seagreen
-831,736,Seagreen
-1295,733,Seagreen
-576,728,Seagreen
-1042,721,Seagreen
-790,710,Seagreen
-1252,708,Seagreen
-1126,702,Seagreen
-1210,682,Seagreen
-957,670,Seagreen
-496,667,Seagreen
-1169,656,Seagreen
-915,644,Seagreen
-1129,629,Seagreen
-297,819,Seagreen
-364,819,Seagreen
-536,627,Seagreen
-410,622,Seagreen
-1211,612,Seagreen
-157,611,Seagreen
-620,607,Seagreen
-1084,605,Seagreen
-831,594,Seagreen
-114,586,Seagreen
-585,574,Seagreen
-326,573,Seagreen
-1252,566,Seagreen
-198,566,Seagreen
-662,562,Seagreen
-999,552,Seagreen
-282,545,Seagreen
-1212,540,Seagreen
-1084,534,Seagreen
-957,529,Seagreen
-241,519,Seagreen
-703,516,Seagreen
-114,515,Seagreen
-915,503,Seagreen
-324,499,Seagreen
-460,494,Seagreen
-872,477,Seagreen
-1208,472,Seagreen
-746,471,Seagreen
-619,466,Seagreen
-1083,463,Seagreen
-492,460,Seagreen
-830,451,Seagreen
-703,446,Seagreen
-577,440,Seagreen
-1041,436,Seagreen
-450,434,Seagreen
-787,426,Seagreen
-1125,418,Seagreen
-998,412,Seagreen
-282,404,Seagreen
-745,400,Seagreen
-153,398,Seagreen
-956,387,Seagreen
-702,375,Seagreen
-1166,373,Seagreen
-913,361,Seagreen
-787,355,Seagreen
-871,336,Seagreen
-744,329,Seagreen
-364,312,Seagreen
-829,309,Seagreen
-702,303,Seagreen
-111,301,Seagreen
-1039,295,Seagreen
-786,284,Seagreen
-998,270,Seagreen
-744,258,Seagreen
-955,245,Seagreen
-237,235,Seagreen
-701,233,Seagreen
-111,230,Seagreen
-912,219,Seagreen
 680,754,Aberdeen
 748,713,Aberdeen
 676,669,Aberdeen
@@ -1387,92 +1129,6 @@ X,Y,Name
 889,515,Aberdeen
 806,477,Aberdeen
 877,408,Aberdeen
-406,659,Kriegers Flak
-308,653,Kriegers Flak
-509,652,Kriegers Flak
-219,644,Kriegers Flak
-141,641,Kriegers Flak
-864,611,Kriegers Flak
-417,610,Kriegers Flak
-943,591,Kriegers Flak
-238,588,Kriegers Flak
-115,585,Kriegers Flak
-834,581,Kriegers Flak
-780,581,Kriegers Flak
-1010,566,Kriegers Flak
-338,560,Kriegers Flak
-806,545,Kriegers Flak
-917,535,Kriegers Flak
-97,535,Kriegers Flak
-1054,515,Kriegers Flak
-254,515,Kriegers Flak
-933,487,Kriegers Flak
-79,485,Kriegers Flak
-782,462,Kriegers Flak
-274,458,Kriegers Flak
-1094,456,Kriegers Flak
-28,522,Kriegers Flak
-94,441,Kriegers Flak
-965,440,Kriegers Flak
-856,425,Kriegers Flak
-755,419,Kriegers Flak
-264,409,Kriegers Flak
-1126,408,Kriegers Flak
-97,391,Kriegers Flak
-709,388,Kriegers Flak
-1095,373,Kriegers Flak
-948,371,Kriegers Flak
-649,348,Kriegers Flak
-96,342,Kriegers Flak
-802,340,Kriegers Flak
-252,338,Kriegers Flak
-1061,334,Kriegers Flak
-622,317,Kriegers Flak
-919,301,Kriegers Flak
-1022,295,Kriegers Flak
-106,293,Kriegers Flak
-682,284,Kriegers Flak
-247,280,Kriegers Flak
-818,275,Kriegers Flak
-987,256,Kriegers Flak
-113,236,Kriegers Flak
-692,235,Kriegers Flak
-257,228,Kriegers Flak
-587,221,Kriegers Flak
-833,214,Kriegers Flak
-944,212,Kriegers Flak
-172,210,Kriegers Flak
-901,177,Kriegers Flak
-741,172,Kriegers Flak
-277,171,Kriegers Flak
-652,154,Kriegers Flak
-854,145,Kriegers Flak
-925,134,Kriegers Flak
-460,135,Kriegers Flak
-407,120,Kriegers Flak
-564,117,Kriegers Flak
-795,105,Kriegers Flak
-479,91,Kriegers Flak
-682,90,Kriegers Flak
-751,74,Kriegers Flak
-554,63,Kriegers Flak
-651,62,Kriegers Flak
-111,139,Kriegers Flak
-704,42,Kriegers Flak
-609,41,Kriegers Flak
-129,30,Kriegers Flak
-664,19,Kriegers Flak
-1036,129,Kriegers Flak
-1182,393,Kriegers Flak
-1108,162,Kriegers Flak
-1170,158,Kriegers Flak
-989,131,Kriegers Flak
-1082,131,Kriegers Flak
-1152,59,Kriegers Flak
-1113,48,Kriegers Flak
-1069,40,Kriegers Flak
-992,36,Kriegers Flak
-954,19,Kriegers Flak
 164,1099,Formosa II
 129,1059,Formosa II
 185,1038,Formosa II
@@ -1494,7 +1150,7 @@ X,Y,Name
 564,614,Formosa II
 683,594,Formosa II
 499,596,Formosa II
-458,574,Formosa II
+464,580,Formosa II
 625,561,Formosa II
 516,520,Formosa II
 574,510,Formosa II
@@ -1684,12 +1340,6 @@ X,Y,Name
 841,148,West of Duddon Sands
 676,141,West of Duddon Sands
 743,110,West of Duddon Sands
-42,257,Middelgrunden
-62,214,Middelgrunden
-75,171,Middelgrunden
-86,121,Middelgrunden
-92,73,Middelgrunden
-99,26,Middelgrunden
 283,550,Kaskasi
 144,548,Kaskasi
 616,543,Kaskasi
@@ -1730,145 +1380,101 @@ X,Y,Name
 1414,87,Kaskasi
 483,799,Sofia
 437,798,Sofia
-403,767,Sofia
+412,776,Sofia
+507,775,Sofia
+387,752,Sofia
 532,750,Sofia
+553,728,Sofia
 364,728,Sofia
+340,706,Sofia
 578,703,Sofia
-331,697,Sofia
+317,683,Sofia
+600,678,Sofia
 504,678,Sofia
 292,661,Sofia
 624,655,Sofia
+268,637,Sofia
 362,634,Sofia
 456,632,Sofia
-263,633,Sofia
+646,631,Sofia
 552,631,Sofia
+245,615,Sofia
 671,608,Sofia
 220,590,Sofia
 409,587,Sofia
 503,584,Sofia
+695,583,Sofia
 598,583,Sofia
-188,560,Sofia
+197,569,Sofia
 716,558,Sofia
+172,544,Sofia
 455,539,Sofia
 361,539,Sofia
+741,536,Sofia
 646,535,Sofia
 551,535,Sofia
 149,522,Sofia
 763,510,Sofia
+124,498,Sofia
 220,494,Sofia
 314,493,Sofia
-119,494,Sofia
 407,492,Sofia
 501,490,Sofia
 691,487,Sofia
 597,487,Sofia
+783,484,Sofia
+102,475,Sofia
 757,457,Sofia
 77,451,Sofia
 266,447,Sofia
 360,446,Sofia
 550,442,Sofia
 644,441,Sofia
-45,420,Sofia
+734,434,Sofia
+54,429,Sofia
 710,410,Sofia
+29,404,Sofia
 219,401,Sofia
 313,399,Sofia
 407,398,Sofia
 501,394,Sofia
 597,393,Sofia
+686,387,Sofia
 52,380,Sofia
 662,363,Sofia
+74,355,Sofia
 171,354,Sofia
 265,352,Sofia
 359,351,Sofia
 453,349,Sofia
 549,347,Sofia
+639,341,Sofia
 99,330,Sofia
 615,317,Sofia
+121,307,Sofia
 217,305,Sofia
 311,304,Sofia
 406,303,Sofia
 500,300,Sofia
+591,294,Sofia
 145,282,Sofia
 567,272,Sofia
 263,258,Sofia
+167,258,Sofia
 357,255,Sofia
 452,254,Sofia
+544,248,Sofia
 191,234,Sofia
 519,226,Sofia
 310,211,Sofia
+214,209,Sofia
 405,206,Sofia
+494,201,Sofia
 238,187,Sofia
 475,183,Sofia
+262,161,Sofia
 446,155,Sofia
+423,132,Sofia
 309,115,Sofia
 355,114,Sofia
 398,108,Sofia
-944,569,Empire Wind
-1171,904,Empire Wind
-1217,896,Empire Wind
-1129,865,Empire Wind
-1258,855,Empire Wind
-1089,830,Empire Wind
-1300,814,Empire Wind
-1046,807,Empire Wind
-1005,783,Empire Wind
-963,759,Empire Wind
-1387,734,Empire Wind
-921,735,Empire Wind
-881,712,Empire Wind
-1429,693,Empire Wind
-837,687,Empire Wind
-1182,664,Empire Wind
-1125,664,Empire Wind
-795,663,Empire Wind
-1084,660,Empire Wind
-1472,653,Empire Wind
-754,640,Empire Wind
-818,630,Empire Wind
-1513,613,Empire Wind
-712,616,Empire Wind
-850,605,Empire Wind
-670,592,Empire Wind
-882,581,Empire Wind
-628,568,Empire Wind
-587,545,Empire Wind
-949,529,Empire Wind
-1261,520,Empire Wind
-544,520,Empire Wind
-1388,510,Empire Wind
-1221,508,Empire Wind
-981,505,Empire Wind
-1179,498,Empire Wind
-504,497,Empire Wind
-1137,488,Empire Wind
-1013,480,Empire Wind
-1096,478,Empire Wind
-462,473,Empire Wind
-628,455,Empire Wind
-714,452,Empire Wind
-970,447,Empire Wind
-420,449,Empire Wind
-674,443,Empire Wind
-926,436,Empire Wind
-884,425,Empire Wind
-377,424,Empire Wind
-843,415,Empire Wind
-800,404,Empire Wind
-337,402,Empire Wind
-760,394,Empire Wind
-717,383,Empire Wind
-295,378,Empire Wind
-676,372,Empire Wind
-634,362,Empire Wind
-592,351,Empire Wind
-253,353,Empire Wind
-549,340,Empire Wind
-508,330,Empire Wind
-212,330,Empire Wind
-465,319,Empire Wind
-169,306,Empire Wind
-341,288,Empire Wind
-297,277,Empire Wind
-255,266,Empire Wind
-214,256,Empire Wind
-172,245,Empire Wind
